@@ -1,0 +1,18 @@
+Conclusões:
+Considerando a escala de anos de 1921 a 2022 e que os filmes 'antigos' são os anteriores a 1990.
+O ano que possue mais filmes na lista do site é 1995.
+Somente 99 filmes estão acima da média das notas, ou seja, 60,4% dos filmes estão abaixo da média das notas.
+Os 5 filmes que obtiveram maior número de votos estão acima da linha de 'antigos', ou seja, são mais 'recentes.
+Visualmente, há quase uma curva de crescimento exponencial quanto ao engajmento de número de votos em relação ao ano.
+Dos 5 filmes que possume maior nota, 3 estão abaixo da linha de 'antigos, ou seja, não são considerados recentes.
+Conclusions:
+Considering an escale of years going from 1921 to 2022 and that old' movies are those before the 90's.
+The year with the most movies on the site's list is 1995.
+Only 99 are above avarege, in other words, 60,4% of the movies are below  avarege.
+The 5 films that received the most votes are above the 'old' line, that is, they are more 'recent'.
+Visually, there is almost an exponential growth curve regarding the number of votes engagement in relation to the year.
+Of the 5 films that have the highest rating, 3 are below the 'old' line, that is, they are not considered recent.
+
+
+
+
